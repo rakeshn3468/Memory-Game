@@ -1,6 +1,6 @@
 
 var buttonColours = ["red", "blue", "green", "yellow"];
-
+alert('Rules:Remeber the previously pressed colour and repeat it for further press')
 var gamePattern = [];
 var userClickedPattern = [];
 
